@@ -16,8 +16,8 @@
 - [**Cairo Security by Spearbit**](https://www.youtube.com/watch?v=9CIhHNrliW4)
 - **Cairo Audits**
     - [**Opus**](https://code4rena.com/reports/2024-01-opus) on Code4rena
-    - [**Chakra**](https://code4rena.com/audits/2024-08-chakra) on Code4rena (Report is not out yet)
+    - [**Chakra**](https://code4rena.com/audits/2024-08-chakra) on Code4rena
     - [**ArkProject**](https://codehawks.cyfrin.io/c/2024-07-ark-project) on CodeHawks
-    - [**Kakarot**](https://code4rena.com/audits/2024-09-kakarot) on Code4rena (Report is not out yet)
-    - [**Starknet Staking**](https://codehawks.cyfrin.io/c/2024-09-starknet-staking) on CodeHawks (Report is not out yet)
+    - [**Kakarot**](https://code4rena.com/audits/2024-09-kakarot) on Code4rena
+    - [**Starknet Staking**](https://codehawks.cyfrin.io/c/2024-09-starknet-staking) on CodeHawks
     - [**MakerDAO**](https://old.chainsecurity.com/wp-content/uploads/2021/12/ChainSecurity_MakerDAO_StarkNet-DAI-Bridge_audit.pdf) by ChainSecurity
